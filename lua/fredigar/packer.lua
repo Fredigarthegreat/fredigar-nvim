@@ -18,7 +18,16 @@ return require('packer').startup(function(use)
 		end
 	})
 
+	use 'neovim/nvim-lsp'
+
+        use 'hrsh7th/nvim-cmp'
+
+        use 'hrsh7th/cmp-nvim-lsp'
+        
+	use 'jackguo380/vim-lsp-cxx-highlight'
+	
 	use "nvim-lua/plenary.nvim" -- don't forget to add this one if you don't have it yet!
+
 	use {
 		"ThePrimeagen/harpoon",
 		branch = "harpoon2",
