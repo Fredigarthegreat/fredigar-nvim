@@ -1,0 +1,265 @@
+
+
+xxx,12/31/21,Opening Balance,,,
+,,,Assets:HFCU:Checking,4727.58,
+,,,Assets:HFCU:Checking:In Process,1242.02,
+,,,Assets:HFCU:Savings,1182.78,
+,,,Assets:Paypal,556.09,
+,,,Assets:Venmo,433.49,
+,,,Assets:Cash,1715,
+,,,Assets:Crypto:Bitcoin:Swan,7610,
+,,,Assets:Brokerage:Swan,,50
+,,,Assets:Mutual Funds:Vanguard,4000,
+,,,Assets:Accounts Receivable:Lucas,1865.71,
+,,,Assets:Accounts Receivable:Sam,1677.25,
+,,,Assets:Accounts Receivable:Caleb,644.77,
+,,,Assets:Vehicles:Camry,2216,
+,,,Assets:Laptop,500,
+,,,Assets:Digital Piano,300,
+,,,Assets:Piano,2000,
+,,,Liability:Accounts Payable:Tithe,,2286.3
+,,,Liability:Accounts Payable:Housing,,9.39
+,,,Liability:Accounts Payable:Education,,100
+,,,Equity:Opening Balance,,28225
+xxx,01/01/22,DIVIDEND,,,
+,,,Assets:HFCU:Checking,0.04,
+,,,Income:Hughes Dividends,,0.04
+xxx,01/02/22,DEBIT CARD DEBIT 000000502773 FRYS-FOOD-DRG TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,54.65
+,,,Expenses:Home Improvement,8.69,
+,,,Expenses:Food:Groceries,45.96,
+xxx,01/02/22,WITHDRAWAL POS 0102 1339 758195 FRYS-FOOD-DRG #0 TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,3.54
+,,,Expenses:Food:Groceries,3.54,
+xxx,01/03/22,DEBIT CARD DEBIT 000000090036 GRANTSTONE SUPERMARKET TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,5.36
+,,,Expenses:Food:Groceries,5.36,
+xxx,01/03/22,ELECTRONIC WITHDRAWAL PRIME TRUST LLC 1MEI SWAN 211231,,,
+,,,Assets:HFCU:Checking,,50.6
+,,,Assets:Brokerage:Swan,50,
+,,,Expenses:Financial:Swan,0.6,
+xxx,01/04/22,ELECTRONIC WITHDRAWAL CAMPUS CRUSADE FDONATION 220104,,,
+,,,Assets:HFCU:Checking,,45
+,,,Giving:Missions,45,
+xxx,01/04/22,ELECTRONIC WITHDRAWAL SOUTHWEST GAS PAYMENT 220103,,,
+,,Dec Gas,Assets:HFCU:Checking,,37.56
+,,Dec Gas,Liability:Accounts Payable:Housing,9.39,
+,,Dec Gas,Assets:Accounts Receivable:Lucas,9.39,
+,,Dec Gas,Assets:Accounts Receivable:Sam,9.39,
+,,Dec Gas,Assets:Accounts Receivable:Caleb,9.39,
+xxx,01/05/22,DEBIT CARD DEBIT 000000002192 ROSS STORES #1321 TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,38.03
+,,,Expenses:Lifestyle:Clothing,38.03,
+xxx,01/05/22,DEBIT CARD DEBIT 000000091658 ALBERTSONS #0961 TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,11.26
+,,,Expenses:Food:Groceries,11.26,
+xxx,01/06/22,purchase,,,
+,,,Assets:Crypto:Bitcoin:Swan,50,
+,,,Assets:Brokerage:Swan,,50
+xxx,01/06/22,TRANSFER 241642-5 (2182397) 1/6/2022 3:01 AM MST Xfr for health ins,,,
+,,,Assets:HFCU:Checking,,19.43
+,,,Expenses:Insurance,19.43,
+xxx,01/06/22,DEBIT CARD DEBIT 000000088009 GABB WIRELESS 385-235-6646 UT,,,
+,,,Assets:HFCU:Checking,,28.93
+,,,Expenses:Lifestyle:Phone,28.93,
+xxx,01/07/22,DEBIT CARD DEBIT 000000016308 HOLIDAY ICE RINK 2021 UNIVERSE.COM CA,,,
+,,,Assets:HFCU:Checking,,34
+,,,Expenses:Dating,34,
+xxx,01/07/22,DEBIT CARD DEBIT 000000091066 Audible*V18OD07U3 Amzn.com/billNJ,,,
+,,,Assets:HFCU:Checking,,8.64
+,,,Expenses:Dating,8.64,
+xxx,01/07/22,WITHDRAWAL POS 0107 1748 064656 ACE HARDWARE TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,32.59
+,,,Expenses:Home Improvement,32.59,
+xxx,01/07/22,DEPOSIT,,,
+,,,Assets:HFCU:Checking,1367.02,
+,,,Assets:HFCU:Checking:In Process,,1242.02
+,,Selznick tuning,Liability:Accounts Payable:Jesse Ormand Piano,,125
+xxx,01/08/22,DEBIT CARD DEBIT 000000061660 MOD PIZZA WILMOT PLAZA TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,21.93
+,,,Expenses:Social,21.93,
+xxx,01/08/22,WITHDRAWAL POS 0108 1026 101534 MARSHALLS #1295 TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,30.4
+,,,Expenses:Lifestyle:Clothing,10.86,
+,,,Expenses:Dating,19.54,
+xxx,01/08/22,DEBIT CARD DEBIT 000000010318 TARGET 00014399 TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,114.1
+,,,Expenses:Dating,60.85,
+,,,Expenses:Lifestyle:Clothing,53.25,
+xxx,01/09/22,"DEPOSIT ZELLE FROM DESAYE,SAMUEL",,,
+,,,Assets:HFCU:Checking,425,
+,,Dec Rent Paid,Assets:Accounts Receivable:Sam,,425
+xxx,01/10/22,Piano tools purchase,,,
+,,,Assets:Cash,,125
+,,,Assets:Accounts Receivable:Jesse Ormand Piano,125,
+xxx,01/10/22,DEBIT CARD CREDIT 000000036437 MARSHALLS #1295 TUCSON AZ,,,
+,,,Assets:HFCU:Checking,8.69,
+,,,Expenses:Dating,,8.69
+xxx,01/10/22,ELECTRONIC WITHDRAWAL PRIME TRUST LLC D3MV SWAN 220107,,,
+,,,Assets:HFCU:Checking,,50.6
+,,,Assets:Brokerage:Swan,50,
+,,,Expenses:Financial:Swan,0.6,
+xxx,01/11/22,DEBIT CARD DEBIT 000000000139 ARBYS #8805 TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,15.52
+,,,Expenses:Food:Restaurants,15.52,
+xxx,01/11/22,ELECTRONIC WITHDRAWAL PAYPAL INST XFER 220110,,,
+,,,Assets:HFCU:Checking,,1041.83
+,,,Expenses:Dating,1041.83,
+xxx,01/11/22,WITHDRAWAL POS 0111 1854 297664 LITTLE CAESARS # TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,6.03
+,,,Expenses:Food:Restaurants,6.03,
+xxx,01/12/22,WITHDRAWAL POS 0112 1230 331739 FRYS FUEL #7017 TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,50.39
+,,,Expenses:Transportation:Gas,50.39,
+xxx,01/12/22,WITHDRAWAL POS 0112 1244 332822 Speedway Tucson AZ,,,
+,,,Assets:HFCU:Checking,,2.29
+,,,Expenses:Food:Restaurants,2.29,
+xxx,01/13/22,purchase,,,
+,,,Assets:Crypto:Bitcoin:Swan,50,
+,,,Assets:Brokerage:Swan,,50
+xxx,01/13/22,WITHDRAWAL POS 0113 1156 385052 FRYS-FOOD-DRG #0 TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,2.5
+,,,Expenses:Food:Groceries,2.5,
+xxx,01/13/22,DEBIT CARD DEBIT 000000019494 Subway 29224 Tucson AZ,,,
+,,,Assets:HFCU:Checking,,4.34
+,,,Expenses:Food:Restaurants,4.34,
+xxx,01/13/22,WITHDRAWAL POS 0113 1844 409202 FRYS-FOOD-DRG #0 TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,48.08
+,,,Expenses:Dating,2.79,
+,,,Expenses:Food:Groceries,45.29,
+xxx,01/14/22,Hachenbergs 2nd January check,,,
+,,,Income:Hachenbergs,,1610
+,,,Expenses:Transportation,,395.95
+,,,Assets:HFCU:Checking:In Process,1698.31,
+,,,Expenses:Tax:Withholding,307.64,
+,,,Giving:Tithe,161,
+,,,Liability:Accounts Payable:Tithe,,161
+xxx,01/14/22,Session with Sylvia,,,
+,,,Liability:Accounts Payable:Healthcare,,100
+,,,Expenses:Healthcare,100,
+xxx,01/15/22,DEBIT CARD DEBIT 000000024705 PANDA EXPRESS #2126 TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,17.72
+,,,Expenses:Dating,17.72,
+xxx,01/15/22,Alise Dozier Piano Tune. Thank you so much!!,,,
+,,,Assets:Venmo,125,
+,,,Liability:Accounts Payable:Jesse Ormand Piano,,125
+xxx,01/16/22,DEBIT CARD DEBIT 000000068187 THE NAVIGATORS 866-5687827 CO,,,
+,,,Assets:HFCU:Checking,,125
+,,,Giving:Missions,125,
+xxx,01/16/22,DEBIT CARD DEBIT 000000006884 USAA INSURANCE PAYMENT 800-531-8111 TX,,,
+,,,Assets:HFCU:Checking,,140.63
+,,,Expenses:Insurance,140.63,
+xxx,01/18/22,TRANSFER 241642-5 (2226380) 01/17/2022 5:10 PM PST Xfr for piano tuning,,,
+,,,Assets:HFCU:Checking,100,
+,,,,,100
+xxx,01/18/22,DEBIT CARD DEBIT 000000039946 ABC*PLANET FITNESS 520-8297300 AZ,,,
+,,,Assets:HFCU:Checking,,10
+,,,Expenses:Lifestyle:Gym,10,
+xxx,01/18/22,ELECTRONIC WITHDRAWAL PRIME TRUST LLC OW4K SWAN 220114,,,
+,,,Assets:HFCU:Checking,,50.6
+,,,Assets:Brokerage:Swan,50,
+,,,Expenses:Financial:Swan,0.6,
+xxx,01/18/22,DEBIT CARD DEBIT 000000065013 Subway 22278 Tucson AZ,,,
+,,,Assets:HFCU:Checking,,4.99
+,,,Expenses:Food:Restaurants,4.99,
+xxx,01/19/22,WITHDRAWAL POS 0119 1801 761984 FRYS-FOOD-DRG #0 TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,6.99
+,,,Expenses:Food:Groceries,6.99,
+xxx,01/19/22,Harry Potter Disks,,,
+,,,Assets:Cash,,15
+,,,Expenses:Lifestyle,15,
+xxx,01/20/22,purchase,,,
+,,,Assets:Crypto:Bitcoin:Swan,50,
+,,,Assets:Brokerage:Swan,,50
+xxx,01/20/22,TRANSFER 241642-5 (2232311) 1/20/2022 3:02 AM MST Xfr for health ins,,,
+,,,Assets:HFCU:Checking,,19.43
+,,,Expenses:Insurance,19.43,
+xxx,01/20/22,ELECTRONIC WITHDRAWAL PAYPAL INST XFER 220119,,,
+,,Dec Water,Assets:HFCU:Checking,,75.88
+,,Dec Water,Expenses:Housing,18.97,
+,,Dec Water,Assets:Accounts Receivable:Lucas,18.97,
+,,Dec Water,Assets:Accounts Receivable:Sam,18.97,
+,,Dec Water,Assets:Accounts Receivable:Caleb,18.97,
+xxx,01/20/22,ELECTRONIC WITHDRAWAL SOUTHWEST GAS PAYMENT 220119,,,
+,,Jan Gas,Assets:HFCU:Checking,,154.03
+,,Jan Gas,Expenses:housing,38.51,
+,,Jan Gas,Assets:Accounts Receivable:Lucas,38.5,
+,,Jan Gas,Assets:Accounts Receivable:Sam,38.51,
+,,Jan Gas,Assets:Accounts Receivable:Caleb,38.51,
+xxx,01/20/22,WITHDRAWAL POS 0120 2105 826832 FRYS-FOOD-DRG #0 TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,22.46
+,,,Expenses:Food:Groceries,22.46,
+xxx,01/23/22,WITHDRAWAL POS 0123 1859 008873 FRYS-FOOD-DRG #0 TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,31.85
+,,,Expenses:Dating,6.93,
+,,,Expenses:Food:Groceries,24.92,
+xxx,01/23/22,DEBIT CARD DEBIT 000000034606 CHICK-FIL-A #03082 TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,5.83
+,,,Expenses:Dating,0.83,
+,,,Assets:Accounts Receivable,5,
+xxx,01/23/22,reimb from Susanna for nuggets,,,
+,,given 22nd,Assets:Accounts Receivable,,5
+,,,Assets:Cash,5,
+xxx,01/24/22,ELECTRONIC WITHDRAWAL PRIME TRUST LLC YOAT SWAN 220121,,,
+,,,Assets:HFCU:Checking,,50.6
+,,,Assets:Brokerage:Swan,50,
+,,,Expenses:Financial:Swan,0.6,
+xxx,01/24/22,ELECTRONIC WITHDRAWAL COX COMM PHX BANK DRAFT012322,,,
+,,Dec Internet,Assets:HFCU:Checking,,59.99
+,,Dec Internet,Expenses:Housing,15,
+,,Dec Internet,Assets:Accounts Receivable:Lucas,14.99,
+,,Dec Internet,Assets:Accounts Receivable:Sam,15,
+,,Dec Internet,Assets:Accounts Receivable:Caleb,15,
+xxx,01/25/22,DEBIT CARD DEBIT 000000055553 SPEEDWAY 02965 4301 E. B TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,49.75
+,,,Expenses:Transportation:Gas,49.75,
+xxx,01/25/22,WITHDRAWAL POS 0125 1606 110246 SQ *ROCKETRY WOR TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,27.45
+,,,Assets:Accounts Receivable:Hachenbergs,27.45,
+xxx,01/27/22,purchase,,,
+,,,Assets:Crypto:Bitcoin:Swan,50,
+,,,Assets:Brokerage:Swan,,50
+xxx,01/27/22,DEBIT CARD DEBIT 000000039625 PANDA EXPRESS #2126 TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,9.67
+,,,Expenses:Social,9.67,
+xxx,01/29/22,DEBIT CARD DEBIT 000000018198 SPOTIFY 877-778-1161 NY,,,
+,,,Assets:HFCU:Checking,,10.6
+,,,Expenses:Lifestyle:Spotify,10.6,
+xxx,01/29/22,WITHDRAWAL POS 0129 1251 343728 FRYS-FOOD-DRG #0 TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,140.95
+,,,Expenses:Home Improvement,6.62,
+,,,Expenses:Lifestyle:Cat,5.42,
+,,,Expenses:Food:Groceries,128.91,
+xxx,01/29/22,WITHDRAWAL POS 0129 1337 347131 FRYS-FOOD-DRG #0 TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,8.96
+,,,Expenses:Food:Groceries,8.96,
+xxx,01/29/22,WITHDRAWAL POS 0129 1343 347836 CVS/PHARMACY #09 Tucson AZ,,,
+,,,Assets:HFCU:Checking,,10.86
+,,,Expenses:Dating,0.86,
+,,,Assets:Accounts Receivable:Sarah,10,
+xxx,01/29/22,Reimb from Sarah,,,
+,,,Assets:Paypal,10,
+,,,Assets:Accounts Receivable:Sarah,,10
+xxx,01/29/22,DEBIT CARD DEBIT 000000020657 KEYMELOCKSMITHS.COM HTTPSKEY.ME NJ,,,
+,,,Assets:HFCU:Checking,,8.68
+,,,Expenses:Dating,8.68,
+xxx,01/29/22,DEBIT CARD DEBIT 000000050234 CHICK-FIL-A #03807 TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,23.67
+,,,Expenses:Social,23.67,
+xxx,01/30/22,DEBIT CARD DEBIT 000000080053 GRANTSTONE SUPERMARKET TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,33.75
+,,,Expenses:Food:Groceries,33.75,
+xxx,01/30/22,WITHDRAWAL POS 0130 1352 408612 FRYS-FOOD-DRG #0 TUCSON AZ,,,
+,,,Assets:HFCU:Checking,,24.21
+,,,Expenses:Food:Groceries,24.21,
+xxx,01/31/22,ELECTRONIC WITHDRAWAL PRIME TRUST LLC H365 SWAN 220128,,,
+,,,Assets:HFCU:Checking,,50.6
+,,,Assets:Brokerage:Swan,50,
+,,,Expenses:Financial:Swan,0.6,
+xxx,01/31/22,ELECTRONIC WITHDRAWAL ALBERTO CHAMORROACH 220130,,,
+,,Feb Rent,Assets:HFCU:Checking,,1450
+,,Feb Rent,Expenses:Housing,300,
+,,Feb Rent,Assets:Accounts Receivable:Lucas,300,
+,,Feb Rent,Assets:Accounts Receivable:Sam,425,
+,,Feb Rent,Assets:Accounts Receivable:Caleb,425,
+

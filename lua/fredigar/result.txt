@@ -1,0 +1,5 @@
+ ID│Date      │Description      │                      │
+   │          │Memo             │Account               │Debit
+───┼──────────┼─────────────────┼──────────────────────┼
+001│2025-01-01│Opening Balance  │                      │
+───┴──────────┤                 │Assets:Cash           │1000

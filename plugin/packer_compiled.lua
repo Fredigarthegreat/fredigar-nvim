@@ -49,8 +49,8 @@ local function save_profiles(threshold)
 end
 
 time([[Luarocks path setup]], true)
-local package_path_str = "/home/fredigar/.cache/nvim/packer_hererocks/2.1.0-beta3/share/lua/5.1/?.lua;/home/fredigar/.cache/nvim/packer_hererocks/2.1.0-beta3/share/lua/5.1/?/init.lua;/home/fredigar/.cache/nvim/packer_hererocks/2.1.0-beta3/lib/luarocks/rocks-5.1/?.lua;/home/fredigar/.cache/nvim/packer_hererocks/2.1.0-beta3/lib/luarocks/rocks-5.1/?/init.lua"
-local install_cpath_pattern = "/home/fredigar/.cache/nvim/packer_hererocks/2.1.0-beta3/lib/lua/5.1/?.so"
+local package_path_str = "/home/fredigar/.cache/nvim/packer_hererocks/2.1.1744014795/share/lua/5.1/?.lua;/home/fredigar/.cache/nvim/packer_hererocks/2.1.1744014795/share/lua/5.1/?/init.lua;/home/fredigar/.cache/nvim/packer_hererocks/2.1.1744014795/lib/luarocks/rocks-5.1/?.lua;/home/fredigar/.cache/nvim/packer_hererocks/2.1.1744014795/lib/luarocks/rocks-5.1/?/init.lua"
+local install_cpath_pattern = "/home/fredigar/.cache/nvim/packer_hererocks/2.1.1744014795/lib/lua/5.1/?.so"
 if not string.find(package.path, package_path_str, 1, true) then
   package.path = package.path .. ';' .. package_path_str
 end
@@ -79,15 +79,35 @@ _G.packer_plugins = {
     path = "/home/fredigar/.local/share/nvim/site/pack/packer/start/catppuccin",
     url = "https://github.com/catppuccin/nvim"
   },
+  ["cmp-buffer"] = {
+    loaded = true,
+    path = "/home/fredigar/.local/share/nvim/site/pack/packer/start/cmp-buffer",
+    url = "https://github.com/hrsh7th/cmp-buffer"
+  },
   ["cmp-nvim-lsp"] = {
     loaded = true,
     path = "/home/fredigar/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",
     url = "https://github.com/hrsh7th/cmp-nvim-lsp"
   },
+  ["cmp-path"] = {
+    loaded = true,
+    path = "/home/fredigar/.local/share/nvim/site/pack/packer/start/cmp-path",
+    url = "https://github.com/hrsh7th/cmp-path"
+  },
+  ["event-behavior.nvim"] = {
+    loaded = true,
+    path = "/home/fredigar/.local/share/nvim/site/pack/packer/start/event-behavior.nvim",
+    url = "/home/fredigar/src/plugins/event-behavior.nvim"
+  },
   harpoon = {
     loaded = true,
     path = "/home/fredigar/.local/share/nvim/site/pack/packer/start/harpoon",
     url = "https://github.com/ThePrimeagen/harpoon"
+  },
+  ["journal.nvim"] = {
+    loaded = true,
+    path = "/home/fredigar/.local/share/nvim/site/pack/packer/start/journal.nvim",
+    url = "/home/fredigar/src/plugins/journal.nvim"
   },
   ["nvim-cmp"] = {
     loaded = true,
@@ -105,6 +125,11 @@ _G.packer_plugins = {
     path = "/home/fredigar/.local/share/nvim/site/pack/packer/start/nvim-surround",
     url = "https://github.com/kylechui/nvim-surround"
   },
+  ["nvim-treesitter"] = {
+    loaded = true,
+    path = "/home/fredigar/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
+    url = "https://github.com/nvim-treesitter/nvim-treesitter"
+  },
   ["packer.nvim"] = {
     loaded = true,
     path = "/home/fredigar/.local/share/nvim/site/pack/packer/start/packer.nvim",
@@ -115,15 +140,40 @@ _G.packer_plugins = {
     path = "/home/fredigar/.local/share/nvim/site/pack/packer/start/plenary.nvim",
     url = "https://github.com/nvim-lua/plenary.nvim"
   },
+  ["targets.vim"] = {
+    loaded = true,
+    path = "/home/fredigar/.local/share/nvim/site/pack/packer/start/targets.vim",
+    url = "https://github.com/wellle/targets.vim"
+  },
   ["telescope.nvim"] = {
     loaded = true,
     path = "/home/fredigar/.local/share/nvim/site/pack/packer/start/telescope.nvim",
     url = "https://github.com/nvim-telescope/telescope.nvim"
   },
+  ["vim-asm_ca65"] = {
+    loaded = true,
+    path = "/home/fredigar/.local/share/nvim/site/pack/packer/start/vim-asm_ca65",
+    url = "https://github.com/maxbane/vim-asm_ca65"
+  },
+  ["vim-cybergrunge"] = {
+    loaded = true,
+    path = "/home/fredigar/.local/share/nvim/site/pack/packer/start/vim-cybergrunge",
+    url = "https://github.com/Fredigarthegreat/vim-cybergrunge"
+  },
+  ["vim-cyberpunk"] = {
+    loaded = true,
+    path = "/home/fredigar/.local/share/nvim/site/pack/packer/start/vim-cyberpunk",
+    url = "https://github.com/thedenisnikulin/vim-cyberpunk"
+  },
   ["vim-lsp-cxx-highlight"] = {
     loaded = true,
     path = "/home/fredigar/.local/share/nvim/site/pack/packer/start/vim-lsp-cxx-highlight",
     url = "https://github.com/jackguo380/vim-lsp-cxx-highlight"
+  },
+  ["vim-textobj-user"] = {
+    loaded = true,
+    path = "/home/fredigar/.local/share/nvim/site/pack/packer/start/vim-textobj-user",
+    url = "https://github.com/kana/vim-textobj-user"
   }
 }
 

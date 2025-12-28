@@ -1,15 +1,29 @@
--- Setup language servers.
-local lspconfig = require('lspconfig')
-
 local capabilities = require('cmp_nvim_lsp').default_capabilities()
-lspconfig.ccls.setup{
+vim.lsp.config('lua_ls', {})
+vim.lsp.enable('lua_ls')
+
+vim.lsp.config('ccls', {
   capabilities = capabilities,
   init_options = {
     compilationDatabaseDirectory = ".",
+    index = {
+      standardLibrary = true
+    },
     highlight = {
       lsRanges = true  -- Enable range highlighting
-    }
+    },
   },
+})
+vim.lsp.enable('ccls')
+
+vim.api.nvim_create_autocmd('Filetype', {
+  pattern = 'javascript',
+  callback = function ()
+    vim.lsp.start({
+      name = 'tsserver',
+      cmd = { 'typescript-language-server', '--stdio' }
+    })
+  end
 }
 
 -- Global mappings.

@@ -2,6 +2,7 @@ local options = {
   smartindent = true,
   termguicolors = true,
   cursorline = true,                       -- highlight the current line
+  guicursor = "n-v-i-c:block-Cursor",
   number = true,                           -- set numbered lines
   relativenumber = true, 
   expandtab = true,                        -- convert tabs to spaces

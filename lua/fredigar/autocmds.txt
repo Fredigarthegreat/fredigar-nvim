@@ -1,0 +1,40 @@
+
+
+--- Autocommands ---
+FileExplorer  BufEnter
+    *         sil call s:LocalBrowse(expand("<amatch>"))
+lsp_cxx_highlight  BufEnter
+    *         call lsp_cxx_hl#hl#check(0)
+BufEnter
+    *.txt     call pencil#init()
+nvim.editorconfig  BufFilePost
+    *         <Lua 105: /usr/share/nvim/runtime/plugin/editorconfig.lua:4>
+matchparen  BufLeave
+    *         call s:Remove_Matches()
+FileExplorer  BufLeave
+    *         if &ft != "netrw"|let w:netrw_prvfile= expand("%:p")|endif
+Harpoon  BufLeave
+    *         <Lua 140: ~/.local/share/nvim/site/pack/packer/start/harpoon/lua/harpoon/init.lua:158>
+BufNewFile
+    *.s       set filetype=asm_ca65
+filetypedetect  BufNewFile
+    *         <Lua 90: /usr/share/nvim/runtime/filetype.lua:10>
+              if !did_filetype() && expand('<amatch>') !~ g:ft_ignore_pat | runtime! scripts.vim | endif
+nvim.editorconfig  BufNewFile
+    *         <Lua 103: /usr/share/nvim/runtime/plugin/editorconfig.lua:4>
+nvim.terminal  BufReadCmd
+    term://*  if !exists('b:term_title')|call jobstart(matchstr(expand("<amatch>"), '\c\mterm://\%(.\{-}//\%(\d\+
+man  BufReadCmd
+    man://*   call man#read_page(matchstr(expand('<amatch>'), 'man://\zs.*'))
+Network  BufReadCmd
+    file://*  call netrw#FileUrlEdit(expand("<amatch>"))
+    ftp://*   exe "sil doau BufReadPre ".fnameescape(expand("<amatch>"))|call netrw#Nread(2,expand("<amatch>"))|exe "sil doau BufReadPost ".fnameescape(expand("<amatch>"))
+    rcp://*   exe "sil doau BufReadPre ".fnameescape(expand("<amatch>"))|call netrw#Nread(2,expand("<amatch>"))|exe "sil doau BufReadPost ".fnameescape(expand("<amatch>"))
+    scp://*   exe "sil doau BufReadPre ".fnameescape(expand("<amatch>"))|call netrw#Nread(2,expand("<amatch>"))|exe "sil doau BufReadPost ".fnameescape(expand("<amatch>"))
+    http://*  exe "sil doau BufReadPre ".fnameescape(expand("<amatch>"))|call netrw#Nread(2,expand("<amatch>"))|exe "sil doau BufReadPost ".fnameescape(expand("<amatch>"))
+    https://* exe "sil doau BufReadPre ".fnameescape(expand("<amatch>"))|call netrw#Nread(2,expand("<amatch>"))|exe "sil doau BufReadPost ".fnameescape(expand("<amatch>"))
+    dav://*   exe "sil doau BufReadPre ".fnameescape(expand("<amatch>"))|call netrw#Nread(2,expand("<amatch>"))|exe "sil doau BufReadPost ".fnameescape(expand("<amatch>"))
+    davs://*  exe "sil doau BufReadPre ".fnameescape(expand("<amatch>"))|call netrw#Nread(2,expand("<amatch>"))|exe "sil doau BufReadPost ".fnameescape(expand("<amatch>"))
+    rsync://* exe "sil doau BufReadPre ".fnameescape(expand("<amatch>"))|call netrw#Nread(2,expand("<amatch>"))|exe "sil doau BufReadPost ".fnameescape(expand("<amatch>"))
+    sftp://*  exe "sil doau BufReadPre ".fnameescape(expand("<amatch>"))|call netrw#Nread(2,expand("<amatch>"))|exe "sil doau BufReadPost ".fnameescape(expand("<amatch>"))
+
